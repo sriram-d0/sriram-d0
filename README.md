@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently **pursuing my undergraduate degree**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MEAN**
 
 - 👨‍💻 Have a look at my portfolio [bit.ly/sriramdutta](bit.ly/sriramdutta)
 
